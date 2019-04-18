@@ -5,6 +5,8 @@ Made with <3 by Remy Ramirez & Alexis Martin
 
 before launching make sure you have done a $ bundle install to upload your gem
 
+To launch the game make a $ ruby app.rb at the roots and let it go
+
 Content:
 - app.rb --> launch it to execute through application file all the other files
 6 files in /lib corresponding to 6 class:
